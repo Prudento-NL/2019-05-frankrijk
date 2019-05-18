@@ -1,13 +1,13 @@
 # basic options
-title: Vakantie MAAND JAAR - BESTEMMING
+title: Vakantie Mei en Juni 2019 - Frankrijk
 author: Kees
-description: Blog van de vakantie van MAAND JAAR
+description: Blog van de kampeervakantie van mei en juni 2019
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/template-vakantie-blog.git"
+URL: "https://github.com/Prudento-NL/2019-05-frankrijk.git"
 
 # URL to images folder at GitHub repo
-images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+images: "https://github.com/Prudento-NL/2019-05-frankrijk/images"
 
 # Build settings
 markdown: kramdown
