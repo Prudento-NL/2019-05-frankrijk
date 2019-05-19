@@ -8,3 +8,7 @@ Deze site is speciaal aangemaakt om verslag te kunnen doen van de kampeer vakant
 
 Plaats: [PLAATS](LINK)  
 Camping: [CAMPING](LINK)
+
+**Uitrusting:**
+- Tent: Karsten 300
+- Auto: Subaru XV

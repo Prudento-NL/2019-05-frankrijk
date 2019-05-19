@@ -1,1 +1,1 @@
-Dit is een verslag van de kampeervakantie naar Frankrijk in Mei en Juni 2019.
+Dit is een verslag van de kampeervakantie naar Frankrijk in mei en juni 2019.
