@@ -11,4 +11,6 @@ Camping: [Domaine de la Gagère](https://la-gagere.com/)
 
 **Uitrusting:**
 - Tent: Karsten 300
-- Auto: Subaru XV
+- Auto: Subaru XV  
+
+![Kaart Luzy]({{ site.images }}/luzy_kaart.jpg?raw=true)
