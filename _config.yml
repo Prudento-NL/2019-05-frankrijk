@@ -4,7 +4,8 @@ author: Kees
 description: Blog van de kampeervakantie van mei en juni 2019
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/2019-05-frankrijk.git"
+baseurl: "/2019-05-frankrijk" 
+url: "https://prudento-nl.github.io" 
 
 # URL to images folder at GitHub repo
 images: "https://prudento-nl.github.io/2019-05-frankrijk/images"
